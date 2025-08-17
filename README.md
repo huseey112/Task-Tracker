@@ -1,2 +1,20 @@
-# Task-Tracker
-The Task Tracker is a simple web app built with HTML, CSS, and JavaScript that helps users manage daily tasks. It allows adding, marking as completed, and deleting tasks dynamically. With a responsive design and interactive UI, it improves productivity while showcasing DOM manipulation and front-end development skills
+# Task Tracker
+
+A lightweight, browser-based task tracker built using **HTML, CSS, and JavaScript** only. All data is stored locally in the browser (via localStorage), so no backend or external database is required.
+
+---
+
+## 📂 Project Folder Structure
+```
+Task-Tracker/
+│
+├── index.html       # main HTML file
+├── style.css        # styles for layout, colors, fonts
+├── script.js        # JavaScript functionality (tasks, filters, storage)
+│
+├── assets/          # (optional) images/icons/screenshots
+│   ├── favicon.png  # example placeholder
+│   └── screenshot.png # demo screenshot
+│
+└── README.md        # project documentation
+```
